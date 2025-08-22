@@ -11,3 +11,7 @@ The official OpticOdds API documentation comes in HTML format with extensive web
 - **Source**: 47 HTML files from the official OpticOdds API documentation
 - **Processing Method**: Automated extraction using LLM batch processing
 - **Output Format**: Clean markdown (.md) files with structured API documentation
+
+## Disclaimer
+
+I didn't write the docs its OpticOdds who wrote them, I just parsed them with LLM, I didn't analyze the results for halucinations too much.
